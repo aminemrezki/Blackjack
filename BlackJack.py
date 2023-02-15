@@ -1,15 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# ___
-# 
-# <a href='https://www.udemy.com/user/joseportilla/'><img src='../Pierian_Data_Logo.png'/></a>
-# ___
-# <center><em>Content Copyright by Pierian Data</em></center>
-
-# # Milestone Project 2 - Complete Walkthrough Solution
-# This notebook walks through a proposed solution to the Blackjack Game milestone project. The approach to solving and the specific code used are only suggestions - there are many different ways to code this out, and yours is likely to be different!
-
 # ## Game Play
 # To play a hand of Blackjack the following steps must be followed:
 # 1. Create a deck of 52 cards
